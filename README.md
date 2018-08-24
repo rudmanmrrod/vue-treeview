@@ -4,7 +4,7 @@ Vue TreeView Test
 Using vue-tree with [Marvel Developer Api](https://developer.marvel.com)
 
 
-# Directivas de Vue
+# Directives de Vue
 ## Project setup
 ```
 npm install
